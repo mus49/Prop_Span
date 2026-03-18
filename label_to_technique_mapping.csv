@@ -1,0 +1,21 @@
+Tech_Number,Label,Filename
+T1,Causal Oversimplification,Train_T01.csv
+T2,Black-and-white Fallacy,Train_T02.csv
+T3,Straw Man,Train_T03.csv
+T4,Whataboutism,Train_T04.csv
+T5,Reductio ad Hitlerum,Train_T05.csv
+T6,Red Herring,Train_T06.csv
+T7,Loaded Language,Train_T07.csv
+T8,Name Calling and Labeling,Train_T08.csv
+T9,Appeal to emotion/fear/prejudice,Train_T09.csv
+T10,Slogans,Train_T10.csv
+T11,Flag-Waving,Train_T11.csv
+T12,Exaggeration and Minimization,Train_T12.csv
+T13,Thought-terminating Cliches,Train_T13.csv
+T14,Bandwagon,Train_T14.csv
+T15,Smears,Train_T15.csv
+T16,Obfuscation, intentional vagueness, confusion,Train_T16.csv
+T17,Doubt,Train_T17.csv
+T18,Appeal to Authority,Train_T18.csv
+T19,Assertion,Train_T19.csv
+T20,Glittering Generalities (Virtue),Train_T20.csv
