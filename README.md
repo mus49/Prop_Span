@@ -67,6 +67,9 @@ huggingface-cli download mistralai/Mistral-Small-3.2-24B-Instruct-2506 \
 ├── i_bias_refinement.py                    # Step 2
 └── inference.py                            # Step 3
 ```
+
+> **Note:** Only a few samples of data are included in this repository for reference. The full dataset will be released upon paper acceptance.
+
 ---
 
 ## Pipeline
