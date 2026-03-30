@@ -1,5 +1,4 @@
-# Propaganda Span Detection via Biased Gibbs Sampling Refinement
-
+# Learning Intrinsic CoT Reasoning for Propaganda Detection via Self-Supervised Optimization
 This repository contains code for fine-grained propaganda span detection in news articles. The pipeline uses a locally-served LLM (Mistral-Small-3.2-24B-Instruct) via [vLLM](https://github.com/vllm-project/vllm) and operates in three sequential stages:
 
 **Initialization → Refinement → Inference**
